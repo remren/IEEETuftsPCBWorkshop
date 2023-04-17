@@ -1,0 +1,9 @@
+[submodule "submodules (aio3 PCB Footprints)/MX_Alps_Hybrid"]
+	path = submodules (aio3 PCB Footprints)/MX_Alps_Hybrid
+	url = https://github.com/ai03-2725/MX_Alps_Hybrid.git
+[submodule "submodules (aio3 PCB Footprints)/Type-C.pretty"]
+	path = submodules (aio3 PCB Footprints)/Type-C.pretty
+	url = https://github.com/ai03-2725/Type-C.pretty.git
+[submodule "submodules (aio3 PCB Footprints)/random-keyboard-parts.pretty"]
+	path = submodules (aio3 PCB Footprints)/random-keyboard-parts.pretty
+	url = https://github.com/ai03-2725/random-keyboard-parts.pretty.git
