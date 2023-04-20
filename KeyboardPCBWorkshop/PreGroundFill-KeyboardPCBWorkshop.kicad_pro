@@ -55,7 +55,13 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|105310000|52460000|395c2474-c601-4759-93f8-e693d1b858e2|78e0d6ea-693d-4365-9f37-a5056fd2dc8c",
+        "clearance|110985000|52460000|d93fc4fe-5cbe-45e7-98ea-434354f4014a|0be7130d-efe1-42fd-9452-b52ba0196c71",
+        "hole_near_hole|146962500|68525000|4b709bc8-2f3c-4546-bc48-f15d3480b50d|e1368ce3-390d-4578-a2a2-401be9b68bdd",
+        "hole_near_hole|166012500|49475000|0353a9e4-44bd-44ba-a4e0-5703fbe2df04|0297005d-c13c-4444-abf5-bbf4aa0a5d77",
+        "hole_near_hole|166012500|68525000|3962aa14-39cd-40fe-82a2-de0cc1e7689c|7f0a5780-fb8f-4605-8318-a31b507bb957"
+      ],
       "meta": {
         "version": 2
       },
@@ -406,7 +412,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "KeyboardPCBWorkshop.kicad_pro",
+    "filename": "PreGroundFill-KeyboardPCBWorkshop.kicad_pro",
     "version": 1
   },
   "net_settings": {
